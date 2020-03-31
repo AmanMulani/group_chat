@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "755652030277",
+    "firebase_url": "https://group-chat-f86d2.firebaseio.com",
+    "project_id": "group-chat-f86d2",
+    "storage_bucket": "group-chat-f86d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755652030277:android:d44e87554ef335d588982c",
+        "android_client_info": {
+          "package_name": "com.AmanMulani.group_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755652030277-hj6nm9j753a1tat0bouen4jgtohno8vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCojayUMe-C85vFqHijXWi6qrcywaBcEwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755652030277-hj6nm9j753a1tat0bouen4jgtohno8vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
